@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "@fluentui/react": "^7.144.3",
-    "@microsoft/mgt": "file:../../microsoft-graph-toolkit/artifacts/microsoft-mgt-2.0.0.tgz",
-    "@microsoft/mgt-element": "file:../../microsoft-graph-toolkit/artifacts/microsoft-mgt-element-1.0.0.tgz",
-    "@microsoft/mgt-react": "file:../../microsoft-graph-toolkit/artifacts/microsoft-mgt-react-2.0.0.tgz",
+    "@microsoft/mgt": "file:../microsoft-graph-toolkit/artifacts/microsoft-mgt-2.0.0.tgz",
+    "@microsoft/mgt-element": "file:../microsoft-graph-toolkit/artifacts/microsoft-mgt-element-1.0.0.tgz",
+    "@microsoft/mgt-react": "file:../microsoft-graph-toolkit/artifacts/microsoft-mgt-react-2.0.0.tgz",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
